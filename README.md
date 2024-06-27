@@ -38,6 +38,7 @@ the initial reactions were unanimous: this board is hideous.
 
 
 > ![IMG_8687](https://github.com/tobiKaboom/stroke/assets/157970333/89d939f1-97bd-4168-99ad-64d653809d8a)
+> 
 > mae
 
-#renders
+# renders
