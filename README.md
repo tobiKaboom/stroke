@@ -47,7 +47,7 @@ the initial reactions were unanimous: this board is hideous.
 to add to the jankiness, you can of course just mount a pcb over the other and keep it as a sandwich, or you could print the case made by me, compatible with the board, or obabo's one, which is much better but not compatible because it requires a daughter board while i use an rp2040 zero, and i swear i cannot integrate circuits so i guess obabo's case is good if you want to handwire?
 
 # disclaimer
-although this board has been tested to fully work, it has not been tested to fully work and i do not claim any responsibility for possible errors in the design or the fact that it might not work. you tried to go against geometry and geometry does not want to be went against
+this board has not been tested and i do not claim responsibility over any errors or malfunctions in the pcb, case, plate or any other component 
 
 # license
 
