@@ -3,7 +3,7 @@ the stroke is the embodyment of the 40s copypasta: we really did come up with a 
 
 ![keyboard-layout(4)](https://github.com/tobiKaboom/stroke/assets/157970333/55f024e7-1916-4273-bdc9-bcefab88b34a)
 # renders
-later
+maybe later
 # concept
 the original idea was a QAZ with bruce-like column stagger, but due to the nature of geometry itself its hard to use both staggers at once. therefore, it has a lot of gaps.
 i also forgot to properly make the column stagger on both sides so the left is a bit lower than the right.
