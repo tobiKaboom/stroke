@@ -31,7 +31,8 @@ the initial reactions were unanimous: this board is hideous.
 > bibibuscotti
 
 > What the actual fuck is this?
-> ![cat](https://cdn.discordapp.com/attachments/527180441950617615/1255620396154093751/FsjbfYtaYAAfr-E.JPEG?ex=667e73de&is=667d225e&hm=f5a523f9b768b0a8f7fbe9847dba96479776ee7e2dfa1c37b344bb8e9b9fd95e&)
+> ![](https://cdn.discordapp.com/attachments/527180441950617615/1255620396154093751/FsjbfYtaYAAfr-E.JPEG?ex=667e73de&is=667d225e&hm=f5a523f9b768b0a8f7fbe9847dba96479776ee7e2dfa1c37b344bb8e9b9fd95e&)
+>
 > Dingusaurus Derp
 
 > Why does it look like everything is tilted
