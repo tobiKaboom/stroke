@@ -51,4 +51,5 @@ to add to the jankiness, you can of course just mount a pcb over the other and k
 this board has not been tested and i do not claim responsibility over any errors or malfunctions in the pcb, case, plate or any other component 
 
 # license
+This work falls under the Creative Commons Attribution-ShareAlike 4.0 international license. For more info, check LICENSE.md or https://creativecommons.org/licenses/by-sa/4.0/deed.en
 
