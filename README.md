@@ -1,9 +1,9 @@
 # stroke
-the stroke is the embodyment of the 40s copypasta: we really did come up with a funny idea for a keyboard meme product (see the kle), then someone (me and obabo) spent actual time makind a cad model of it and then someone will spend real money on it just because noone had the sense to say "this is stupid" somewhere along the way.
+> [!TIP]
+> If you want to make this keyboard, i would advise you to use the money you would spend on this to go to therapy.
 
 ![keyboard-layout(4)](https://github.com/tobiKaboom/stroke/assets/157970333/55f024e7-1916-4273-bdc9-bcefab88b34a)
-# renders
-maybe later
+
 # concept
 the original idea was a QAZ with bruce-like column stagger, but due to the nature of geometry itself its hard to use both staggers at once. therefore, it has a lot of gaps.
 i also forgot to properly make the column stagger on both sides so the left is a bit lower than the right.
@@ -45,7 +45,7 @@ the initial reactions were unanimous: this board is hideous.
 > mae
 
 # case
-to add to the jankiness, you can of course just mount a pcb over the other and keep it as a sandwich, or you could print the case made by me, compatible with the board, or obabo's one, which is much better but not compatible because it requires a daughter board while i use an rp2040 zero, and i swear i cannot integrate circuits so i guess obabo's case is good if you want to handwire?
+to add to the jankiness, you can of course just mount a pcb over the other and keep it as a sandwich, or use obabo's one, which is much better but not compatible because it requires a daughter board while i use an rp2040 zero, and i swear i cannot integrate circuits so i guess obabo's case is good if you want to handwire?
 
 # disclaimer
 this board has not been tested and i do not claim responsibility over any errors or malfunctions in the pcb, case, plate or any other component 
