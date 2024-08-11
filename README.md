@@ -44,6 +44,18 @@ the initial reactions were unanimous: this board is hideous.
 > 
 > mae
 
+>ban him
+>
+>Joe Scotto
+
+>That's Illegal
+>
+>Ruby
+
+>Why is this kind of sick tho
+>
+>upset
+
 # case
 to add to the jankiness, you can of course just mount a pcb over the other and keep it as a sandwich, or use obabo's one, which is much better but not compatible because it requires a daughter board while i use an rp2040 zero, and i swear i cannot integrate circuits so i guess obabo's case is good if you want to handwire?
 
