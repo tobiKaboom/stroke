@@ -1,4 +1,7 @@
 # stroke
+> [!WARNING]
+> i literally forgot to make the firmware lmao
+
 > [!TIP]
 > If you want to make this keyboard, i would advise you to use the money you would spend on this to go to therapy.
 
